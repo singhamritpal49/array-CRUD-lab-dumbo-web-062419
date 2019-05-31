@@ -1,9 +1,9 @@
 def create_an_empty_array
-   []
+   array = []
 end
 
 def create_an_array
-new_array =["hello"]
+states_array =["New York","California","Washington","New Jersey"]
 end
 
 def add_element_to_end_of_array(array, element)
